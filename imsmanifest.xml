@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-20260617021851LDX0XE"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-20260617021851LDX0XE">
+    <organization identifier="eXe-20260617021851LDX0XE" structure="hierarchical">
+      <title>PROYECTO AULA TEA. CONOCEMOS NUESTRO BARRIO: EL BULEVAR DE JAÉN</title>
+      <item identifier="ITEM-1b099390-e78c-4d29-9c46-d62cd744aab7" identifierref="RES-1b099390-e78c-4d29-9c46-d62cd744aab7" isvisible="true">
+        <title>PRESENTACIÓN PROYECTO</title>
+        <item identifier="ITEM-page-mqh80bf7-5vwd3yv1m" identifierref="RES-page-mqh80bf7-5vwd3yv1m" isvisible="true">
+          <title>1. ¿Qué vamos a aprender?</title>
+        </item>
+        <item identifier="ITEM-page-mqh82qn0-2h6em2djz" identifierref="RES-page-mqh82qn0-2h6em2djz" isvisible="true">
+          <title>2. Normas para usar Internet y las herramientas digitales</title>
+        </item>
+        <item identifier="ITEM-page-mqh84sq6-2mtl660r3" identifierref="RES-page-mqh84sq6-2mtl660r3" isvisible="true">
+          <title>3. ¿Qué vamos a hacer al final?</title>
+        </item>
+        <item identifier="ITEM-page-mqh88a8h-0lufzvwcl" identifierref="RES-page-mqh88a8h-0lufzvwcl" isvisible="true">
+          <title>4. Herramientas que vamos a usar</title>
+        </item>
+        <item identifier="ITEM-page-mqh8b6fx-hgkso6d96" identifierref="RES-page-mqh8b6fx-hgkso6d96" isvisible="true">
+          <title>5. Recursos que vamos a ver</title>
+        </item>
+        <item identifier="ITEM-page-mqh8ivtd-oqk78chp4" identifierref="RES-page-mqh8ivtd-oqk78chp4" isvisible="true">
+          <title>6. Nuestro camino de trabajo</title>
+          <item identifier="ITEM-page-mqhau54u-olqcrlzaj" identifierref="RES-page-mqhau54u-olqcrlzaj" isvisible="true">
+            <title>Línea Temporal</title>
+          </item>
+          <item identifier="ITEM-page-mqh8jjzo-a4v2pt5c6" identifierref="RES-page-mqh8jjzo-a4v2pt5c6" isvisible="true">
+            <title>Tarea 1: ¿Qué sabemos del Bulevar?</title>
+          </item>
+          <item identifier="ITEM-page-mqh8lb3i-nbcc0vh0t" identifierref="RES-page-mqh8lb3i-nbcc0vh0t" isvisible="true">
+            <title>Tarea 2: Exploramos el barrio</title>
+          </item>
+          <item identifier="ITEM-page-mqh8nb4l-kuo8ypid5" identifierref="RES-page-mqh8nb4l-kuo8ypid5" isvisible="true">
+            <title>Tarea 3: Clasificamos lo que hemos visto</title>
+          </item>
+          <item identifier="ITEM-page-mqh8oq61-m3z1zx4tl" identifierref="RES-page-mqh8oq61-m3z1zx4tl" isvisible="true">
+            <title>Tarea 4: Creamos un mapa del Bulevar</title>
+          </item>
+          <item identifier="ITEM-page-mqh8q5dt-b05ybvwz3" identifierref="RES-page-mqh8q5dt-b05ybvwz3" isvisible="true">
+            <title>Tarea 5: Presentamos nuestro barrio</title>
+          </item>
+          <item identifier="ITEM-page-mqh8rh3s-nhr9vxnz7" identifierref="RES-page-mqh8rh3s-nhr9vxnz7" isvisible="true">
+            <title>Tarea 6: Nuestro Bulevar Ideal</title>
+          </item>
+        </item>
+        <item identifier="ITEM-page-mqh8tgpl-fe9b43zda" identifierref="RES-page-mqh8tgpl-fe9b43zda" isvisible="true">
+          <title>7. ¿Cómo sabremos que estamos aprendiendo?</title>
+        </item>
+        <item identifier="ITEM-page-mqhb1c3c-cbbo63cux" identifierref="RES-page-mqhb1c3c-cbbo63cux" isvisible="true">
+          <title>8. ¿Cómo nos evaluará la maestra?</title>
+        </item>
+        <item identifier="ITEM-page-mqh8v14k-3vixnt5fk" identifierref="RES-page-mqh8v14k-3vixnt5fk" isvisible="true">
+          <title>9. Lista de cotejo</title>
+        </item>
+        <item identifier="ITEM-page-mqh8w8ik-xqeolkjpv" identifierref="RES-page-mqh8w8ik-xqeolkjpv" isvisible="true">
+          <title>10.  Rúbrica del producto final</title>
+        </item>
+        <item identifier="ITEM-page-mqh8xkr7-pqoedehr8" identifierref="RES-page-mqh8xkr7-pqoedehr8" isvisible="true">
+          <title>11. Si tenemos alguna dificultad</title>
+        </item>
+        <item identifier="ITEM-page-mqh8zdw4-hbg7bibpt" identifierref="RES-page-mqh8zdw4-hbg7bibpt" isvisible="true">
+          <title>12.  Al final del proyecto</title>
+        </item>
+        <item identifier="ITEM-page-mqh93ftb-9c5ub3x0c" identifierref="RES-page-mqh93ftb-9c5ub3x0c" isvisible="true">
+          <title>GUÍA DIDÁCTICA</title>
+        </item>
+        <item identifier="ITEM-page-mqhbfxaf-uslkv3lzc" identifierref="RES-page-mqhbfxaf-uslkv3lzc" isvisible="true">
+          <title>CRÉDITOS</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-1b099390-e78c-4d29-9c46-d62cd744aab7" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh80bf7-5vwd3yv1m" type="webcontent" adlcp:scormtype="sco" href="html/1-que-vamos-a-aprender.html">
+      <file href="html/1-que-vamos-a-aprender.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh82qn0-2h6em2djz" type="webcontent" adlcp:scormtype="sco" href="html/2-normas-para-usar-internet-y-las-herramientas-dig.html">
+      <file href="html/2-normas-para-usar-internet-y-las-herramientas-dig.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh84sq6-2mtl660r3" type="webcontent" adlcp:scormtype="sco" href="html/3-que-vamos-a-hacer-al-final.html">
+      <file href="html/3-que-vamos-a-hacer-al-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh88a8h-0lufzvwcl" type="webcontent" adlcp:scormtype="sco" href="html/4-herramientas-que-vamos-a-usar.html">
+      <file href="html/4-herramientas-que-vamos-a-usar.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8b6fx-hgkso6d96" type="webcontent" adlcp:scormtype="sco" href="html/5-recursos-que-vamos-a-ver.html">
+      <file href="html/5-recursos-que-vamos-a-ver.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8ivtd-oqk78chp4" type="webcontent" adlcp:scormtype="sco" href="html/6-nuestro-camino-de-trabajo.html">
+      <file href="html/6-nuestro-camino-de-trabajo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqhau54u-olqcrlzaj" type="webcontent" adlcp:scormtype="sco" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8jjzo-a4v2pt5c6" type="webcontent" adlcp:scormtype="sco" href="html/tarea-1-que-sabemos-del-bulevar.html">
+      <file href="html/tarea-1-que-sabemos-del-bulevar.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8lb3i-nbcc0vh0t" type="webcontent" adlcp:scormtype="sco" href="html/tarea-2-exploramos-el-barrio.html">
+      <file href="html/tarea-2-exploramos-el-barrio.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8nb4l-kuo8ypid5" type="webcontent" adlcp:scormtype="sco" href="html/tarea-3-clasificamos-lo-que-hemos-visto.html">
+      <file href="html/tarea-3-clasificamos-lo-que-hemos-visto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8oq61-m3z1zx4tl" type="webcontent" adlcp:scormtype="sco" href="html/tarea-4-creamos-un-mapa-del-bulevar.html">
+      <file href="html/tarea-4-creamos-un-mapa-del-bulevar.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8q5dt-b05ybvwz3" type="webcontent" adlcp:scormtype="sco" href="html/tarea-5-presentamos-nuestro-barrio.html">
+      <file href="html/tarea-5-presentamos-nuestro-barrio.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8rh3s-nhr9vxnz7" type="webcontent" adlcp:scormtype="sco" href="html/tarea-6-nuestro-bulevar-ideal.html">
+      <file href="html/tarea-6-nuestro-bulevar-ideal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8tgpl-fe9b43zda" type="webcontent" adlcp:scormtype="sco" href="html/7-como-sabremos-que-estamos-aprendiendo.html">
+      <file href="html/7-como-sabremos-que-estamos-aprendiendo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqhb1c3c-cbbo63cux" type="webcontent" adlcp:scormtype="sco" href="html/8-como-nos-evaluara-la-maestra.html">
+      <file href="html/8-como-nos-evaluara-la-maestra.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8v14k-3vixnt5fk" type="webcontent" adlcp:scormtype="sco" href="html/9-lista-de-cotejo.html">
+      <file href="html/9-lista-de-cotejo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8w8ik-xqeolkjpv" type="webcontent" adlcp:scormtype="sco" href="html/10-rubrica-del-producto-final.html">
+      <file href="html/10-rubrica-del-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8xkr7-pqoedehr8" type="webcontent" adlcp:scormtype="sco" href="html/11-si-tenemos-alguna-dificultad.html">
+      <file href="html/11-si-tenemos-alguna-dificultad.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh8zdw4-hbg7bibpt" type="webcontent" adlcp:scormtype="sco" href="html/12-al-final-del-proyecto.html">
+      <file href="html/12-al-final-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqh93ftb-9c5ub3x0c" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica.html">
+      <file href="html/guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mqhbfxaf-uslkv3lzc" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/+imagen 3.jpg"/>
+      <file href="content/resources/TAREA 2.1.PRESENTACIÓN DEL PROYECTO.pdf"/>
+      <file href="content/resources/TAREA 2.3. Protección de datos personales y garantías de derechos digitales..pdf"/>
+      <file href="content/resources/TAREA 4.1. Descripción del producto final que elabora alumnado..pdf"/>
+      <file href="content/resources/TAREA 6.1. Criterios de Evaluación..pdf"/>
+      <file href="content/resources/TAREA 7.1. Línea temporal de realización de tareas..pdf"/>
+      <file href="content/resources/TAREA 8.1. Instrumentos de evaluación..pdf"/>
+      <file href="content/resources/imagen 1.jpg"/>
+      <file href="content/resources/imagen 2.jpg"/>
+      <file href="idevices/image-gallery/exequextsq.svg"/>
+      <file href="idevices/image-gallery/image-gallery.css"/>
+      <file href="idevices/image-gallery/image-gallery.html"/>
+      <file href="idevices/image-gallery/image-gallery.js"/>
+      <file href="idevices/image-gallery/simple-lightbox.min.css"/>
+      <file href="idevices/image-gallery/simple-lightbox.min.js"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/exe_lightbox/exe_lightbox.css"/>
+      <file href="libs/exe_lightbox/exe_lightbox.js"/>
+      <file href="libs/exe_lightbox/exe_lightbox_default_thumb.png"/>
+      <file href="libs/exe_lightbox/exe_lightbox_loader.gif"/>
+      <file href="libs/exe_lightbox/exe_lightbox_sprite.png"/>
+      <file href="libs/exe_lightbox/exe_lightbox_sprite_next.png"/>
+      <file href="libs/exe_lightbox/exe_lightbox_sprite_prev.png"/>
+      <file href="libs/exe_lightbox/exe_lightbox_sprite_x.png"/>
+      <file href="libs/exe_lightbox/exe_lightbox_sprite_y.png"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/open-sans-bold.woff"/>
+      <file href="theme/fonts/open-sans-bold.woff2"/>
+      <file href="theme/fonts/open-sans.woff"/>
+      <file href="theme/fonts/open-sans.woff2"/>
+      <file href="theme/icons/activity.svg"/>
+      <file href="theme/icons/agreement.svg"/>
+      <file href="theme/icons/alert.svg"/>
+      <file href="theme/icons/arts.svg"/>
+      <file href="theme/icons/ask.svg"/>
+      <file href="theme/icons/book.svg"/>
+      <file href="theme/icons/calculate.svg"/>
+      <file href="theme/icons/case.svg"/>
+      <file href="theme/icons/chrono.svg"/>
+      <file href="theme/icons/collaborative.svg"/>
+      <file href="theme/icons/competencies.svg"/>
+      <file href="theme/icons/diary.svg"/>
+      <file href="theme/icons/diary_alt.svg"/>
+      <file href="theme/icons/discuss.svg"/>
+      <file href="theme/icons/download.svg"/>
+      <file href="theme/icons/draw.svg"/>
+      <file href="theme/icons/english.svg"/>
+      <file href="theme/icons/experiment.svg"/>
+      <file href="theme/icons/explore.svg"/>
+      <file href="theme/icons/file.svg"/>
+      <file href="theme/icons/gallery.svg"/>
+      <file href="theme/icons/geography.svg"/>
+      <file href="theme/icons/guide.svg"/>
+      <file href="theme/icons/history.svg"/>
+      <file href="theme/icons/info.svg"/>
+      <file href="theme/icons/interactive.svg"/>
+      <file href="theme/icons/letters.svg"/>
+      <file href="theme/icons/listen.svg"/>
+      <file href="theme/icons/math.svg"/>
+      <file href="theme/icons/music.svg"/>
+      <file href="theme/icons/nature.svg"/>
+      <file href="theme/icons/objectives.svg"/>
+      <file href="theme/icons/observe.svg"/>
+      <file href="theme/icons/passport.svg"/>
+      <file href="theme/icons/perform.svg"/>
+      <file href="theme/icons/piece.svg"/>
+      <file href="theme/icons/pieces.svg"/>
+      <file href="theme/icons/play.svg"/>
+      <file href="theme/icons/present.svg"/>
+      <file href="theme/icons/reflection.svg"/>
+      <file href="theme/icons/roadmap.svg"/>
+      <file href="theme/icons/share.svg"/>
+      <file href="theme/icons/sport.svg"/>
+      <file href="theme/icons/start.svg"/>
+      <file href="theme/icons/stop.svg"/>
+      <file href="theme/icons/suitcase.svg"/>
+      <file href="theme/icons/technology.svg"/>
+      <file href="theme/icons/think.svg"/>
+      <file href="theme/icons/think_alt.svg"/>
+      <file href="theme/icons/video.svg"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
